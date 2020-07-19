@@ -1,5 +1,5 @@
 
-## Part I - WeatherPy
+## Part I - WeatherPy Insights
 
 * For Part I, you must include a written description of three observable trends based on the data.
 	1. As you appraoch closer to the equator, center of the latitude plot, the maximum temperature is at its' highest. This has a strong linear regression relationship. 
